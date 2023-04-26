@@ -1,2 +1,2 @@
-# Terros-real-estate-agency
-Terro’s real-estate is an agency that estimates the pricing of houses in a certain locality. The pricing is concluded based on different features / factors of a property. This also helps them in identifying the business value of a property.This helps in determining the price of a property.
+The agency has provided a dataset of 506 houses in Boston. Following are the details of the dataset:
+https://olympus.mygreatlearning.com/courses/89681/files/7387299/download?wrap=1
